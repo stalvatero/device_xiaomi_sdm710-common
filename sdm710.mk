@@ -242,8 +242,8 @@ PRODUCT_PACKAGES += \
     IPACM_cfg.xml
 
 # Lights
-PRODUCT_PACKAGES += \
-    android.hardware.light@2.0-service.xiaomi_sdm710
+# PRODUCT_PACKAGES += \
+#    android.hardware.light@2.0-service.xiaomi_sdm710
 
 # Media
 PRODUCT_PACKAGES += \
