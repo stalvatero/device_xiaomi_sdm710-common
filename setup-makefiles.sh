@@ -26,7 +26,7 @@ source "${HELPER}"
 setup_vendor "${DEVICE_COMMON}" "${VENDOR}" "${AOSP_ROOT}" true
 
 # Copyright headers and guards
-write_headers "sirius"
+write_headers "sirius grus pyxis vela"
 
 # The standard common blobs
 write_makefiles "${MY_DIR}/proprietary-files.txt" true
